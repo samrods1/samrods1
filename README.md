@@ -1,7 +1,8 @@
 - 👋 *Hi, I’m Samuel!*
-- I’m a photography, front-end dev, gym and soccer lover.
+- I’m a photography, gym and soccer lover.
+- Big fan of UI design and front end engineering.
 - Currently learning Javascript!
-- 📫 samrodsph@gmail.com
+
 
 <!---
 samrods1/samrods1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
