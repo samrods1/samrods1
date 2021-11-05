@@ -1,7 +1,7 @@
 - 👋 *Hi, I’m Samuel!*
 - I’m a photography, gym and soccer lover.
 - Big fan of UI design and front end engineering.
-- Currently learning Javascript!
+- Front-end developer
 
 
 <!---
