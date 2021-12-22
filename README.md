@@ -1,6 +1,6 @@
 ## Hello, I'm Samuel! 🤙
 
-#### Aiming to become a React developer and cause positive impact through programming!
+#### Aiming to become a React developer and cause positive impact on others through programming!
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrods1&show_icons=true&theme=radical)
 
