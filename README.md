@@ -1,5 +1,5 @@
 ## Hello, I'm Samuel! 🤙
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samrods&show_icons=true&theme=radical)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samrods1&show_icons=true&theme=radical)
 
 <br/>
 
